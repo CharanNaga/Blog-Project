@@ -17,3 +17,7 @@
 .modal{
     backdrop-filter: blur(5px);
 }
+.custom-nav{
+    backdrop-filter: blur(8px);
+    --bs-bg-opacity: .9;
+}
