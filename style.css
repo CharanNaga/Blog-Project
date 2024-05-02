@@ -6,3 +6,11 @@
     background-clip: text;
     color: transparent;
 }
+
+.banner-holder{
+    background-image: url(img/banner.jpg);
+    background-size: cover;
+    background-position: bottom;
+    margin-left: 10px;
+    margin-right: 10px;
+}
